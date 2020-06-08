@@ -42,8 +42,6 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "tasnim.fatir28@gmail.com"
-  facebook: tasnimferdows.fatir
-  github: tasnimfatir
   rss: true
 #  linkedin: 
 #  instagram: 
