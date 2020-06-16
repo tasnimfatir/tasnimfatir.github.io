@@ -1,7 +1,6 @@
 ---
 layout: post
 title: After Sunset
-cover-img: "/assets/img/Travel-and-Photography/after-sunset-pic1.jpg"
 tags: [Travel, Photography]
 ---
 
