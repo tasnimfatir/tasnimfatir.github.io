@@ -2,6 +2,7 @@
 layout: post
 title: After Sunset
 tags: [Travel, Photography]
+cover-img: /assets/img/Travel-and-Photography/after-sunset-pic1.JPG 
 ---
 
 It was in August, 2016 when I travelled to Sunamganj with my cousins. Though I don’t remember the name of that place, these photos were captured there during the sunset.  Probably this was somewhere in Barektila or Tekerghat. After a lot of burgeoning and pleading (because it was getting really late and nobody wanted to sail their boats), we managed to get on a boat to reach Tahirpur where we were staying during the trip. Right before the boatman started the engine as we were sitting on the boat in a peaceful and calm atmosphere, I was able to take the photographs. Although, these were not incredible shots; however, the ethereal feelings remained with these photographs due to the sky and peacefulness. I have seen different kinds of colors in the sky, but a sky with a setting sun is incredible. 
