@@ -10,6 +10,17 @@
 <section id = "social-share-section">
   <span class="sr-only">Share: </span>
 
+  <style type="text/css">
+    @font-face {
+        font-family: "KG2C";
+        src: url("/assets/fonts/KG2C.ttf") format("truetype");
+    }
+   </style>  
+
+  <h4 style="font-family:KG2C;color:crimson;">Share this story in...</h4>
+
+
+
   {% if site.share-links-active.twitter %}
     <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}"
       class="btn btn-social-icon btn-twitter" title="Share on Twitter">

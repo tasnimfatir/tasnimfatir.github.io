@@ -1,0 +1,79 @@
+.sticky-container{
+	position: fixed;
+	top: 30%;
+	right: 0%;
+	width: 225px;
+	display: flex;
+	flex-direction: column;
+}
+
+.sticky-container a{
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 10px;
+	font-size: 22px;
+	margin: 2px;
+	text-align: left;
+	border-radius: 50px 0px 0px 50px;
+	transform: translate(155px, 0px);
+	-webkit-transition:all 0.25s ease-in-out;
+	-moz-transition:all 0.25s ease-in-out;
+	-o-transition:all 0.25s ease-in-out;
+	transition:all 0.25s ease-in-out;
+	cursor: pointer;
+}
+
+.sticky-container a:hover{
+	-webkit-transform: translateX(0px);
+	-moz-transform: translateX(0px);
+	-o-transform: translateX(0px);
+	-ms-transform: translateX(0px);
+	transform:translateX(0px);
+}
+
+.sticky-container a i{
+	margin-right: 20px;
+	background-color: white;
+	height: 40px;
+	width: 40px;
+	color: black;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 50%;
+	-webkit-transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;
+	-o-transition:all 0.3s ease-in-out;
+	transition:all 0.3s ease-in-out;
+	cursor: pointer;
+}
+
+.sticky-container a:hover i{
+	transform: rotate(360deg);
+}
+
+.sticky-container a i.fa-facebook{
+	color: #2C80D3;
+}
+
+.sticky-container a i.fa-twitter{
+	color: #53c5ff;
+}
+
+.sticky-container a i.fa-linkedin-in{
+	color: #0E76A8;
+}
+
+.facebook{
+	background-color: #2C80D3;
+	color: white;
+}
+
+.twitter{
+	background-color: #53c5ff;
+	color: white;
+}
+
+.linkedin{
+	background-color: #0E76A8;
+	color: white;
+}
